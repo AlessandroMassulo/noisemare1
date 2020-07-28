@@ -1,0 +1,178 @@
+{
+  "categorias": [
+    {
+      "titulo": "WITCH HOUSE",
+      "link": "https://en.wikipedia.org/wiki/Witch_house_(genre)",
+      "cor": "#210117",
+      "link_extra": {
+        "text": "Learn more about witch house",
+        "url": "https://en.wikipedia.org/wiki/Witch_house_(genre)"
+      },
+      "videos": [
+        {
+          "titulo": "Πлачь Ʒемля x MATANYA — Вопль Ведьм",
+          "url": "https://www.youtube.com/watch?v=hxfyMdaUo3M"
+        },
+        {
+          "titulo": "White Ring - IXC999",
+          "url": "https://www.youtube.com/watch?v=_7XJHiLSKKk"
+        },
+        {
+          "titulo": "IC3PEAK - СКАЗКА ",
+          "url": "https://www.youtube.com/watch?v=y13sm8OJTf4"
+        },
+        {
+          "titulo": "Blvck Ceiling - Young",
+          "url": "https://www.youtube.com/watch?v=M8ZJ-0NoIaQ"
+        },
+        {
+          "titulo": "Alice Glass - Stillbirth",
+          "url": "https://www.youtube.com/watch?v=m8iSUekqabI"
+        },
+        {
+          "titulo": "Picture Plane - Gothstar",
+          "url": "https://www.youtube.com/watch?v=NuxE7TjYuo4"
+        },
+        {
+          "titulo": "СКОТОБОЙНЯ より多くの愛 official",
+          "url": "https://www.youtube.com/watch?v=L7rtik7r5-4"
+        },
+        {
+          "titulo": "VV17CHØU7 VØZM3ZD13",
+          "url": "https://www.youtube.com/watch?v=y6vL0r_VGB0"
+        }        
+      ]
+    },
+    {
+      "titulo": "NOISY CARESS",
+      "cor": "#210117",
+      "link_extra": {
+        "text": "HorrorCore, TrapMetal, +",
+        "url": "https://bandcamp.com/tag/trap-metal"
+      },
+      "videos": [
+        {
+          "titulo": "Ghostemane - Flesh",
+          "url": "https://www.youtube.com/watch?v=2_iOA1_MXI4"
+        },
+        {
+          "titulo": "UnterNull - Destroy Me",
+          "url": "https://www.youtube.com/watch?v=hO-HonoVSGs"
+        },
+        {
+          "titulo": "scarlxrd - HEART ATTACK [Prod. JVCXB]",
+          "url": "https://www.youtube.com/watch?v=OC7cNS0GINo"
+        },
+        {
+          "titulo": "NETTI - FXRTHEINCXMING",
+          "url": "https://www.youtube.com/watch?v=Ga0zvHgafVY"
+        }, 
+        {
+          "titulo": "scarlxrd - LIES YXU TELL [Prod. MUPPY]",
+          "url": "https://www.youtube.com/watch?v=BzYjLtPB6DI"
+        }
+      ]
+    },
+    {
+      "titulo": "Thoughts from Mandland",
+      "cor": "#210117",
+            "videos": [
+        {
+          "titulo": "The Ghostemane Interview - No Jumper",
+          "url": "https://www.youtube.com/watch?v=IlZBZb1iYNE"
+        },
+        {
+          "titulo": "Marilyn Manson | Show & Tell",
+          "url": "https://www.youtube.com/watch?v=_MPaH9QXiEw"
+        },
+        {
+          "titulo": "HEAVY1 INTERVIEW: Corey Taylor & James Root (SLIPKNOT)",
+          "url": "https://www.youtube.com/watch?v=YmV7xkIDfNM"
+        },
+        {
+          "titulo": "GHOST's Tobias Forge interview on Satan, Sabbath & the future of metal",
+          "url": "https://www.youtube.com/watch?v=yYUuPNjIlO4"
+        }
+      ]
+    },
+    {
+      "titulo": "Visions of Nightmares",
+      "cor": "#210117",
+      "videos": [
+        {
+          "titulo": "Event Horizon",
+          "url": "https://www.youtube.com/watch?v=ZmSLkiYwAbw"
+        },
+        {
+          "titulo": "Evil Dead",
+          "url": "https://www.youtube.com/watch?v=E8rtnB-GLZQ"
+        },
+        {
+          "titulo": "The Void",
+          "url": "https://www.youtube.com/watch?v=IkmSNt4moNg"
+        },
+        {
+          "titulo": "Anihilation",
+          "url": "https://www.youtube.com/watch?v=0m3cPEbwwhg"
+        }
+      ]
+    },
+    {
+      "titulo": "Games",
+      "cor": "#210117",
+
+      "videos": [
+        {
+          "titulo": "Bloodborne - Lore",
+          "url": "https://www.youtube.com/watch?v=wjWOy6ioVHI"
+        },
+        {
+          "titulo": "Hollow Knight - Lore",
+          "url": "https://www.youtube.com/watch?v=0XDiWYFGGqY"
+        },
+        {
+          "titulo": "Dark Souls - Lore",
+          "url": "https://www.youtube.com/watch?v=0A4X_Kgf4Mk"
+        },
+        {
+          "titulo": "Sundered - Struggle for Sanity",
+          "url": "https://www.youtube.com/watch?v=D-YWyCI0DWU"
+        },
+        {
+          "titulo": "DOOM Eternal - Lore",
+          "url": "https://www.youtube.com/watch?v=U7dt-bVTttM"
+        }
+      ]
+    },
+    {
+      "titulo": "Voices from the Abyss",
+      "cor": "#210117",
+      "link_extra": {
+        "text": "Because not only in the darkness we dwell (jk)",
+        "url": "https://www.google.com/search?q=guilty+pleasure&rlz=1C1RLNS_pt-BRBR895BR895&oq=guilty+plearu&aqs=chrome.1.69i57j0l4j46j0l2.3135j0j9&sourceid=chrome&ie=UTF-8"
+      },
+      "videos": [
+        {
+          "titulo": "Poppy - Girls in Bikini",
+          "url": "https://www.youtube.com/watch?v=6JgG8fZAlu0"
+        },
+        {
+          "titulo": "Allie X - Fresh Laundry",
+          "url": "https://www.youtube.com/watch?v=CKb6f47K-KQ"
+        },
+        {
+          "titulo": "Grimes ft. Janelle Monáe - Venus   ",
+          "url": "https://www.youtube.com/watch?v=eTLTXDHrgtw"
+        },
+        {
+          "titulo": "HANA - Anxious Alien",
+          "url": "https://www.youtube.com/watch?v=gbKiidntSBU"
+        },
+        {
+          "titulo": "MIRÈLE - Если бы Любовь",
+          "url": "https://www.youtube.com/watch?v=TlvEghD25H8"
+        }
+      ]
+    }
+  ]
+}
