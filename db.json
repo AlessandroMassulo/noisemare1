@@ -1,0 +1,10 @@
+{
+  "categorias":[
+    {
+      "id":1,
+      "nome":"WITCH HOUSE1",
+      "descricao": "Learn more about",
+      "cor": "#cbd1ff"
+    }
+  ]
+}
